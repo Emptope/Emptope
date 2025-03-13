@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,html,css,js,ts,nodejs,react)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,opencv,matlab,latex,md)](https://skillicons.dev)
 
 ### Tools I Use
-[![Tools I Use](https://skillicons.dev/icons?i=git,docker,vscode,vim,qt,anaconda,cmake,vite,npm,mongodb)](https://skillicons.dev)
+[![Tools I Use](https://skillicons.dev/icons?i=git,docker,vscode,vim,idea,qt,anaconda,cmake,vite,npm,mongodb)](https://skillicons.dev)
 
 <!--
 **Emptope/Emptope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
