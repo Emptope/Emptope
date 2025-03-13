@@ -1,7 +1,7 @@
 ## Hi there 🤗
 
-### 🚀 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,opencv,matlab,latex,md)](https://skillicons.dev)
+### 🚀 My Tech Stack
+[![My Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,opencv,matlab,latex,md)](https://skillicons.dev)
 
 ### 🛠 Tools I Use
 [![Tools I Use](https://skillicons.dev/icons?i=git,docker,vscode,vim,idea,qt,anaconda,cmake,vite,npm,mongodb)](https://skillicons.dev)
