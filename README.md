@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 🤗
 
-### 🤗 Tech Stack
+### 🚀 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,opencv,matlab,latex,md)](https://skillicons.dev)
 
 ### 🛠 Tools I Use
