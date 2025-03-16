@@ -1,4 +1,4 @@
-## Hi there 🤗
+## Hi there 👋
 
 ### 🚀 My Tech Stack
 [![My Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,express,opencv,matlab,latex,md)](https://skillicons.dev)
