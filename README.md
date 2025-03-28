@@ -5,7 +5,7 @@
 [![Emptope's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emptope&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 My Tech Stack
-[![My Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,arduino,html,css,js,ts,nodejs,react,express,tailwind,nextjs,opencv,matlab,latex)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,html,css,js,ts,nodejs,react,express,tailwind,nextjs,opencv,arduino,matlab,latex)](https://skillicons.dev)
 
 ### 🛠 Tools I Use
 [![Tools I Use](https://skillicons.dev/icons?i=git,docker,vscode,vim,idea,qt,anaconda,cmake,vite,npm,mongodb)](https://skillicons.dev)
