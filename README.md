@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-🌱 Beginner Full-Stack Developer | Currently Learning the MERN Stack
-
 [![Emptope's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emptope&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 My Tech Stack
