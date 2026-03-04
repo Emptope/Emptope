@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Emptope's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emptope)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- 
 ### 🚀 My Tech Stack
 [![My Tech Stack](https://skillicons.dev/icons?i=cpp,c,py,java,html,css,js,ts,nodejs,react,express,tailwind,nextjs,opencv,pytorch,arduino,matlab,latex)](https://skillicons.dev)
